@@ -1,10 +1,10 @@
-# <div align="center">🚀 Dasunn Illangasinghe | IllangasingheIMDP</div>
+# <div align="center">🚀 Dasun Illangasinghe | IllangasingheIMDP</div>
 
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-IllangasingheIMDP-181717?style=for-the-badge&logo=github)](https://github.com/IllangasingheIMDP)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=firefox)](https://your-portfolio-url.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dasunn-illangasinghe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dasun-illangasinghe)
 
 </div>
 
@@ -13,7 +13,7 @@
 ## <div align="center">💻 Computer Science & Engineering Student @ University of Moratuwa</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&height=70&lines=Hi+there%2C+I'm+Dasunn;Full-Stack+Developer;Mobile+App+Developer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&height=70&lines=Hi+there%2C+I'm+Dasun;Full-Stack+Developer;Mobile+App+Developer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -52,12 +52,12 @@ I'm a curious and ambitious Computer Science & Engineering student with a passio
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IllangasingheIMDP&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Dasunn Illangasinghe's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IllangasingheIMDP&layout=compact&hide_border=true&theme=tokyonight" alt="Dasunn Illangasinghe's Most Used Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IllangasingheIMDP&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Dasun Illangasinghe's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IllangasingheIMDP&layout=compact&hide_border=true&theme=tokyonight" alt="Dasun Illangasinghe's Most Used Languages" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IllangasingheIMDP&theme=algolia&no-frame=true&no-bg=true&row=1" alt="Dasunn Illangasinghe's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=IllangasingheIMDP&theme=algolia&no-frame=true&no-bg=true&row=1" alt="Dasun Illangasinghe's GitHub Trophies" />
 </div>
 
 <br/>
@@ -65,7 +65,7 @@ I'm a curious and ambitious Computer Science & Engineering student with a passio
 ## ⚡ What I Do
 
 ```javascript
-const dasunn = {
+const dasun = {
   education: "Computer Science & Engineering @ University of Moratuwa",
 
   passions: ["Web Development", "Mobile Apps", "Data Science", "Machine Learning"],
