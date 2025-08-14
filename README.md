@@ -97,12 +97,7 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  
-[![GeneChain](https://github-readme-stats.vercel.app/api/pin/?username=IllangasingheIMDP&repo=GeneChain&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/IllangasingheIMDP/GeneChain)
-[![ADB Manager](https://github-readme-stats.vercel.app/api/pin/?username=IllangasingheIMDP&repo=ADB-Manager&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/IllangasingheIMDP/ADB-Manager)
 
-</div>
 
 ### 🧬 GeneChain: Genealogical Tree Creator
 **Tech Stack:** `Next.js` `FastAPI` `MongoDB` `Google OAuth 2.0` `Stripe API` `WebSocket` `Wikidata API` `Spacy`
