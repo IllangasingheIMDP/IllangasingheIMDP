@@ -1,8 +1,4 @@
 <div align="center">
-  <img width="100%" height="1449" alt="1372963" src="https://github.com/user-attachments/assets/8631aed3-f09b-43ab-9dc7-d0d42a4ae172" />
-</div>
-
-<div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-IllangasingheIMDP-181717?style=for-the-badge&logo=github)](https://github.com/IllangasingheIMDP)
 [![Portfolio](https://img.shields.io/badge/Portfolio-dasun.codes-ff69b4?style=for-the-badge&logo=firefox)](https://dasun.codes)
@@ -20,6 +16,10 @@
 <p align="center">
 🚀 Passionate Computer Science & Engineering student specializing in Data Science and Engineering with a <strong>3.81/4.00 GPA</strong>. I'm driven by the intersection of software engineering and data science, creating innovative solutions that leverage cutting-edge technologies like machine learning, full-stack development, and cloud computing.
 </p>
+
+<div align="center">
+  <img width="100%" height="1449" alt="1372963" src="https://github.com/user-attachments/assets/8631aed3-f09b-43ab-9dc7-d0d42a4ae172" />
+</div>
 
 <div align="center">
   
