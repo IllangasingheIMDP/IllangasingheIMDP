@@ -1,283 +1,278 @@
-# <div align="center">🌟 Dasun Illangasinghe | IllangasingheIMDP 🌟</div>
-
 <div align="center">
-  
-<!-- Custom Wave Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=200&section=header&text=Welcome%20to%20my%20Digital%20Universe&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Building%20the%20Future,%20One%20Line%20of%20Code%20at%20a%20Time&descAlignY=55&descAlign=50" />
-
-[![GitHub](https://img.shields.io/badge/GitHub-IllangasingheIMDP-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IllangasingheIMDP)
-[![Portfolio](https://img.shields.io/badge/Portfolio-dasun.codes-ff6b6b?style=for-the-badge&logo=firefox&logoColor=white)](https://dasun.codes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dasun-illangasinghe)
-[![Email](https://img.shields.io/badge/Email-dasunpramodya616@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dasunpramodya616@gmail.com)
-
-</div>
-
-<!-- Animated Typing Effect -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=4FACFE&center=true&vCenter=true&width=800&height=100&lines=🚀+Full-Stack+Developer;🏆+Multiple+Hackathon+Winner;🤖+AI+%26+ML+Enthusiast;📊+Data+Science+Specialist;💡+Problem+Solver+%26+Innovator" alt="Dynamic Typing Effect" />
-</div>
-
-## <div align="center">🎓 Computer Science & Engineering @ University of Moratuwa</div>
-### <div align="center">🏅 GPA: 3.81/4.00 | 🥇 Dean's List (3/4 Semesters) | 🌟 Island Rank 22 (A-Levels)</div>
-
-<br/>
-
-<!-- About Me Section with Gradient Box -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9629-6c3ab3518cc9.gif" width="500">
+  <img width="100%" height="1449" alt="1372963" src="https://github.com/user-attachments/assets/8631aed3-f09b-43ab-9dc7-d0d42a4ae172" />
 </div>
 
 <div align="center">
   
-### 💫 About Me
-
-*"Passionate innovator at the intersection of technology and creativity"*
-
-🎯 Specializing in **Data Science & Engineering** with expertise across the full tech stack  
-🏆 **Multiple hackathon winner** with proven track record of delivering innovative solutions  
-💡 Focused on creating **impactful applications** that solve real-world problems  
-🌱 Constantly exploring the **latest in AI/ML** and cutting-edge technologies  
-🚀 Building the future through **collaborative innovation** and **sustainable tech solutions**
+[![GitHub](https://img.shields.io/badge/GitHub-IllangasingheIMDP-181717?style=for-the-badge&logo=github)](https://github.com/IllangasingheIMDP)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dasun.codes-ff69b4?style=for-the-badge&logo=firefox)](https://dasun.codes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/dasun-illangasinghe-69a9192ab)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:dasunpramodya616@gmail.com)
 
 </div>
 
-<br/>
-
-## 🛠️ Technology Ecosystem
+## <div align="center">🎓 Computer Science & Engineering Student @ University of Moratuwa</div>
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&height=70&lines=Hi+there%2C+I'm+Dasun+%F0%9F%91%8B;Software+Engineer+%26+Data+Scientist;Full-Stack+Developer;AI+%26+ML+Enthusiast;Hackathon+Winner+%F0%9F%8F%86;Dean's+List+Student+%F0%9F%93%9A" alt="Typing SVG" />
+</div>
 
-### 🎨 Frontend Mastery
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+🚀 Passionate Computer Science & Engineering student specializing in Data Science and Engineering with a <strong>3.81/4.00 GPA</strong>. I'm driven by the intersection of software engineering and data science, creating innovative solutions that leverage cutting-edge technologies like machine learning, full-stack development, and cloud computing.
+</p>
 
-### ⚡ Backend & Cloud
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### 🗄️ Database Management
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🤖 AI & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+<div align="center">
+  
+🏆 **1st Place Winner** at Duothan 5.0 | 🥈 **1st Runners-Up** at Devthon 2.0 | 📊 **Dean's List** 3/4 Semesters
 
 </div>
 
-<br/>
+---
+
+## 🛠️ Technology Arsenal
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3 align="center">🎨 Frontend & UI/UX</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,js,figma" alt="Frontend Technologies" />
+        <br><br>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">⚙️ Backend & Databases</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,spring,mongodb,mysql,postgres,redis" alt="Backend Technologies" />
+        <br><br>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">🤖 Data Science & ML</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,sklearn" alt="Data Science Technologies" />
+        <br><br>
+        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <h3>☁️ Cloud & DevOps</h3>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github" alt="Cloud Technologies" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IllangasingheIMDP&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=4FACFE&icon_color=00D2FF&text_color=ffffff" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IllangasingheIMDP&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=4FACFE&text_color=ffffff" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IllangasingheIMDP&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Dasun's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IllangasingheIMDP&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most Used Languages" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=IllangasingheIMDP&theme=radical&hide_border=true&background=0D1117&stroke=4FACFE&ring=00D2FF&fire=FF6B6B&currStreakLabel=4FACFE" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IllangasingheIMDP&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IllangasingheIMDP&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=IllangasingheIMDP&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
-<br/>
-
-## 🏆 Competition Victories & Recognition
-
-<div align="center">
-  
-| 🏅 Achievement | 🏛️ Organization | 📅 Date | 🚀 Project |
-|:---:|:---:|:---:|:---:|
-| **🥇 1st Place** | Duothan 5.0 - IEEE NSBM | Jul 2025 | Real-time Coding Platform |
-| **🥈 1st Runners-Up** | Devthon 2.0 | May 2025 | InfluenZ - Influencer Platform |
-| **🥉 2nd Runners-Up** | MoraXtreme 9.0 | Oct 2024 | Algorithmic Solutions |
-| **🏆 Merit Award** | DevQuest CODEFEST | Jan 2025 | Top 10 Finish |
-| **🌟 Top 10 Finalist** | SpiritX | Apr 2025 | Sports Tech Solutions |
-| **🎖️ Dean's List** | University of Moratuwa | 2023-Present | Academic Excellence |
-
-</div>
-
-<br/>
+---
 
 ## 🚀 Featured Projects
 
 <div align="center">
   
-### 🧬 **GeneChain: Genealogical Tree Creator** *(Ongoing)*
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://github.com/IllangasingheIMDP)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/IllangasingheIMDP)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)](https://github.com/IllangasingheIMDP)
-[![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)](https://github.com/IllangasingheIMDP)
-
-*Advanced web app using NLP & knowledge graphs for genealogical tree visualization*
-
-### 📱 **ADB Manager** *(Ongoing)*
-[![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)](https://github.com/IllangasingheIMDP)
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/IllangasingheIMDP)
-[![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat-square&logo=openai&logoColor=white)](https://github.com/IllangasingheIMDP)
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://github.com/IllangasingheIMDP)
-
-*Cross-platform Android device management with AI-powered chatbot support*
-
-### 🌟 **InfluenZ Platform** *(Competition Winner)*
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://github.com/IllangasingheIMDP)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/IllangasingheIMDP)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://github.com/IllangasingheIMDP)
-[![YouTube API](https://img.shields.io/badge/YouTube_API-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://github.com/IllangasingheIMDP)
-
-*Award-winning influencer-brand collaboration platform with real-time analytics*
-
-### ⚖️ **OASIS Protocol - Coding Platform** *(Competition Project)*
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://github.com/IllangasingheIMDP)
-[![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)](https://github.com/IllangasingheIMDP)
-[![Judge0](https://img.shields.io/badge/Judge0-4285F4?style=flat-square&logo=google&logoColor=white)](https://github.com/IllangasingheIMDP)
-[![Monaco Editor](https://img.shields.io/badge/Monaco_Editor-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)](https://github.com/IllangasingheIMDP)
-
-*Real-time competitive coding platform with live leaderboards*
+[![GeneChain](https://github-readme-stats.vercel.app/api/pin/?username=IllangasingheIMDP&repo=GeneChain&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/IllangasingheIMDP/GeneChain)
+[![ADB Manager](https://github-readme-stats.vercel.app/api/pin/?username=IllangasingheIMDP&repo=ADB-Manager&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/IllangasingheIMDP/ADB-Manager)
 
 </div>
 
-<br/>
+### 🧬 GeneChain: Genealogical Tree Creator
+**Tech Stack:** `Next.js` `FastAPI` `MongoDB` `Google OAuth 2.0` `Stripe API` `WebSocket` `Wikidata API` `Spacy`
 
-## 📈 Development Philosophy
+- 🔬 Developing a web app for generating and visualizing genealogical trees using data extraction from Wikipedia and Wikidata
+- 🧠 Implementing NLP techniques like coreference resolution and LLM-based relationship extraction
+- 📊 Building knowledge graph construction with vector embeddings and real-time updates via WebSockets
+- 💳 Integrated subscription management with Stripe API and secure user authentication
 
-```typescript
-interface Developer {
-  name: string;
-  role: string[];
-  education: string;
-  specialization: string;
-  currentGPA: number;
-  mindset: string[];
-}
+### 📱 ADB Manager: Cross-Platform Device Management
+**Tech Stack:** `Electron` `React` `FastAPI` `Kotlin` `WebSocket` `RAG` `Groq`
 
-const dasun: Developer = {
-  name: "Dasun Illangasinghe",
-  role: [
-    "Full-Stack Developer 💻",
-    "AI/ML Enthusiast 🤖", 
-    "Data Science Specialist 📊",
-    "Problem Solver 🧩",
-    "Innovation Catalyst 🚀"
-  ],
-  education: "CSE @ University of Moratuwa",
-  specialization: "Data Science & Engineering",
-  currentGPA: 3.81,
-  mindset: [
-    "💡 Innovation through collaboration",
-    "🎯 Quality over quantity", 
-    "🌱 Continuous learning",
-    "🌍 Sustainable technology solutions",
-    "🤝 Community-driven development"
-  ]
-};
+- 🖥️ Architected a cross-platform desktop application using Electron and React for real-time Android device management
+- 🔒 Designed secure WebSocket and FastAPI backend for file transfers and mobile notifications with minimal latency
+- 🤖 Integrated RAG-based chatbot for intelligent, context-aware user support
 
-console.log("Building the future, one commit at a time! 🌟");
+### 🌟 InfluenZ: Influencer-Brand Collaboration Platform
+**Tech Stack:** `Express.js` `PostgreSQL` `Next.js` `Redis` `YouTube API`
+
+- 🎯 Developed a web app enabling influencer-brand collaboration with secure verification and admin oversight
+- 📈 Built integrated analytics dashboard for real-time campaign performance tracking
+- ⚡ Automated influencer analytics with YouTube API and implemented Redis for efficient OTP handling
+
+---
+
+## 🏆 Achievements & Recognition
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🥇 Competition Victories</h3>
+      <ul align="left">
+        <li><strong>🏆 1st Place:</strong> Duothan 5.0 (Jul 2025) - Built real-time competitive coding platform</li>
+        <li><strong>🥈 1st Runners-Up:</strong> Devthon 2.0 (May 2025) - Developed InfluenZ platform</li>
+        <li><strong>🥉 2nd Runners-Up:</strong> MoraXtreme 9.0 (Oct 2024) - Enhanced algorithmic skills</li>
+        <li><strong>🏅 Merit Award:</strong> DevQuest CODEFEST (Jan 2025) - Top 10 contributor</li>
+        <li><strong>🔟 Top 10 Finalist:</strong> SpiritX (Apr 2025) - Innovative sports solutions</li>
+        <li><strong>🔟 Top 10 Finalist:</strong> HackX 9.0 (Aug 2024) - Sensory Journey MERN app</li>
+      </ul>
+    </td>
+    <td align="center" width="50%">
+      <h3>🎓 Academic Excellence</h3>
+      <ul align="left">
+        <li><strong>📚 Dean's List:</strong> 3 out of 4 semesters (2023-Present)</li>
+        <li><strong>📊 Current GPA:</strong> 3.81/4.00</li>
+        <li><strong>🎯 Specialization:</strong> Data Science and Engineering</li>
+        <li><strong>🏫 Institution:</strong> University of Moratuwa, Sri Lanka</li>
+        <li><strong>🏆 G.C.E. A/L:</strong> Island Rank 22, District Rank 1</li>
+        <li><strong>📈 Z-Score:</strong> 2.702 with 3As in Physical Science</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📚 Certifications & Learning
+
+<div align="center">
+  
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
+
+</div>
+
+**Kaggle Certifications:**
+- 🤖 Introduction to Machine Learning
+- 🧠 Intermediate Machine Learning  
+- ⚙️ Feature Engineering
+- 🧹 Data Cleaning
+
+---
+
+## 💼 What I Do
+
+```python
+class DasunIllangasinghe:
+    def __init__(self):
+        self.education = "B.Sc. Computer Science & Engineering @ University of Moratuwa"
+        self.specialization = "Data Science and Engineering"
+        self.current_gpa = 3.81
+        self.status = "Dean's List Student"
+        
+    def skills(self):
+        return {
+            "languages": ["Python", "JavaScript", "Java", "C++", "SQL", "HTML", "CSS"],
+            "frontend": ["React", "Next.js", "Tailwind CSS", "Bootstrap"],
+            "backend": ["Node.js", "Express.js", "FastAPI", "Flask", "Spring Boot"],
+            "databases": ["MongoDB", "MySQL", "PostgreSQL", "Redis", "SQLite"],
+            "mobile": ["React Native", "Kotlin"],
+            "data_science": ["Pandas", "NumPy", "scikit-learn", "PyTorch", "OpenCV"],
+            "cloud": ["AWS", "Google Cloud Platform", "Netlify", "Vercel"],
+            "tools": ["Docker", "Git", "WebSocket", "REST APIs"]
+        }
+    
+    def current_focus(self):
+        return [
+            "Building scalable web applications",
+            "Developing AI-powered solutions",
+            "Creating data-driven insights",
+            "Contributing to open-source projects",
+            "Participating in hackathons and competitions"
+        ]
+    
+    def achievements(self):
+        return {
+            "hackathon_wins": 6,
+            "dean_list_semesters": 3,
+            "projects_completed": 8,
+            "technologies_mastered": 25
+        }
+
+# Initialize
+dasun = DasunIllangasinghe()
+print("Ready to build the future with code and data! 🚀")
 ```
 
-<br/>
+---
 
-## 🎯 Current Focus
+## 🌟 Current Focus & Future Goals
 
 <div align="center">
   
-**🔍 Exploring:** Advanced Machine Learning & AI Integration  
-**🛠️ Building:** Next-generation web applications with modern frameworks  
-**📚 Learning:** Cloud-native architectures and microservices  
-**🎨 Creating:** Intuitive user experiences that solve real problems  
-**🌟 Aspiring:** To bridge the gap between AI and practical applications  
+🔭 **Currently Working On:** GeneChain - Genealogical Tree Creator using NLP and Knowledge Graphs
+
+🌱 **Learning:** Advanced Machine Learning, Cloud Architecture, and Microservices
+
+👯 **Looking to Collaborate On:** Open-source projects in AI/ML and Full-Stack Development
+
+🤔 **Seeking Help With:** Advanced MLOps and Production ML Systems
+
+💬 **Ask Me About:** React, Node.js, Python, Data Science, Machine Learning, or Hackathon Strategies
+
+⚡ **Fun Fact:** I've won 6 hackathons and competitions while maintaining a 3.81 GPA!
 
 </div>
 
-<br/>
+---
 
-## 🌐 Connect & Collaborate
+## 📈 Contribution Graph
 
 <div align="center">
-
-[![Email](https://img.shields.io/badge/Email-dasunpramodya616@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dasunpramodya616@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dasun_Illangasinghe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dasun-illangasinghe)
-[![Portfolio](https://img.shields.io/badge/Portfolio-dasun.codes-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://dasun.codes)
-[![Phone](https://img.shields.io/badge/Phone-+94--711940579-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+94711940579)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IllangasingheIMDP&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B" alt="Contribution Graph" />
 </div>
 
-<br/>
+---
 
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IllangasingheIMDP&theme=react-dark&bg_color=0D1117&hide_border=true&line=4FACFE&point=00D2FF&color=ffffff" width="100%" alt="Contribution Graph" />
-</div>
+## 🤝 Let's Connect!
 
-<br/>
-
-<!-- Fun Facts & Achievements -->
-<details>
-<summary>⚡ More About Me & Fun Facts</summary>
-<br>
-
-**🎓 Academic Excellence**
-- 🏆 Island Rank 22 in G.C.E. Advanced Level (Physical Science)
-- 📈 District Rank 1 in Anuradhapura 
-- 🌟 3.81 GPA in Computer Science & Engineering
-- 🏅 Dean's List for 3 out of 4 semesters
-
-**💼 Leadership & Community**
-- 🎯 Organizing Committee Member, IESL RoboGames 2025
-- 💻 Web & Tech Committee Member, CSE40 Anniversary Series
-- 🦁 Active member, Leo Club of University of Moratuwa
-- 🎯 Company Coordinator, CSE Careers Day 2025
-
-**🏆 Certifications & Skills**
-- 🤖 Kaggle: Machine Learning (Intro & Intermediate)
-- 🔧 Feature Engineering & Data Cleaning Certified
-- 🌐 Advanced Full-Stack Development
-- 📊 Data Science & Analytics Expert
-
-**🎸 When I'm Not Coding**
-- 🎵 Amateur guitarist and music enthusiast
-- 📚 Avid reader of tech research papers
-- 🌱 Advocate for sustainable technology
-- 🏃 Fitness enthusiast and outdoor explorer
-- ☕ Coffee connoisseur and late-night coder
-
-**💭 Philosophy**
-*"Technology should amplify human potential, not replace human connection."*
-
-</details>
-
-<br/>
-
-<!-- Visitor Counter & Quote -->
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=IllangasingheIMDP&color=4FACFE&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker" alt="Inspirational Quote"/>
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=150&section=footer" />
-
-**✨ "Code with passion, innovate with purpose, and build for tomorrow" ✨**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dasun-illangasinghe-69a9192ab)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://dasun.codes)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dasunpramodya616@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IllangasingheIMDP)
 
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=IllangasingheIMDP&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker" alt="Quote"/>
+</div>
+
+<div align="center">
+  
+**"Building tomorrow's solutions with today's code"** 💻✨
+
+</div>
+
