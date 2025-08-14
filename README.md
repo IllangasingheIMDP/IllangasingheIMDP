@@ -10,11 +10,11 @@
 ## <div align="center">🎓 Computer Science & Engineering Student @ University of Moratuwa</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&height=70&lines=Hi+there%2C+I'm+Dasun+%F0%9F%91%8B;Software+Engineer+%26+Data+Scientist;Full-Stack+Developer;AI+%26+ML+Enthusiast;Hackathon+Winner+%F0%9F%8F%86;Dean's+List+Student+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&height=70&lines=Hi+there%2C+I'm+Dasun+%F0%9F%91%8B;Software+Engineer+%26+Data+Scientist;Full-Stack+Developer;AI+%26+ML+Enthusiast;Hackathon+Winner+%F0%9F%8F%86;" alt="Typing SVG" />
 </div>
 
 <p align="center">
-🚀 Passionate Computer Science & Engineering student specializing in Data Science and Engineering with a <strong>3.81/4.00 GPA</strong>. I'm driven by the intersection of software engineering and data science, creating innovative solutions that leverage cutting-edge technologies like machine learning, full-stack development, and cloud computing.
+🚀 Passionate Computer Science & Engineering student specializing in Data Science and Engineering. I'm driven by the intersection of software engineering and data science, creating innovative solutions that leverage cutting-edge technologies like machine learning, full-stack development, and cloud computing.
 </p>
 
 <div align="center">
@@ -23,7 +23,7 @@
 
 <div align="center">
   
-🏆 **1st Place Winner** at Duothan 5.0 | 🥈 **1st Runners-Up** at Devthon 2.0 | 📊 **Dean's List** 3/4 Semesters
+🏆 **1st Place Winner** at Duothan 5.0 | 🥈 **1st Runners-Up** at Devthon 2.0 
 
 </div>
 
